@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+td {
+  text-align: left;
+}
+
+tr:first-child > td {
+  padding-bottom: 15px;
+}
